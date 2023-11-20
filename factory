@@ -1,0 +1,46 @@
+using System;
+
+// Інтерфейс для об'єктів, які будуть створюватися фабрикою
+public interface IProduct
+{
+    void Display();
+}
+
+// Конкретний клас продукту
+public class ConcreteProduct : IProduct
+{
+    public void Display()
+    {
+        Console.WriteLine("ConcreteProduct display");
+    }
+}
+
+// Фабричний метод, визначений у інтерфейсі або базовому класі
+public interface IFactory
+{
+    IProduct CreateProduct();
+}
+
+// Конкретна фабрика для створення конкретного продукту
+public class ConcreteFactory : IFactory
+{
+    public IProduct CreateProduct()
+    {
+        return new ConcreteProduct();
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Створення об'єкту фабрики
+        IFactory factory = new ConcreteFactory();
+
+        // Використання фабрики для створення продукту
+        IProduct product = factory.CreateProduct();
+
+        // Виклик методу виведення на екрані для продукту
+        product.Display();
+    }
+}
