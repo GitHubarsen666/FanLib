@@ -1,0 +1,37 @@
+using System;
+
+public interface IProduct
+{
+    void Display();
+}
+
+public class ConcreteProduct : IProduct
+{
+    public void Display()
+    {
+        Console.WriteLine("ConcreteProduct display");
+    }
+}
+
+public interface IFactory
+{
+    IProduct CreateProduct();
+}
+
+public class ConcreteFactory : IFactory
+{
+    public IProduct CreateProduct()
+    {
+        return new ConcreteProduct();
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        IFactory factory = new ConcreteFactory();
+        IProduct product = factory.CreateProduct();
+        product.Display();
+    }
+}
