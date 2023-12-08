@@ -1,0 +1,14 @@
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\bin\Debug\net6.0\Pattern prototype.exe
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\bin\Debug\net6.0\Pattern prototype.deps.json
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\bin\Debug\net6.0\Pattern prototype.runtimeconfig.json
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\bin\Debug\net6.0\Pattern prototype.dll
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\bin\Debug\net6.0\Pattern prototype.pdb
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.AssemblyInfoInputs.cache
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.AssemblyInfo.cs
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.csproj.CoreCompileInputs.cache
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.dll
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\refint\Pattern prototype.dll
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.pdb
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\Pattern prototype.genruntimeconfig.cache
+C:\Users\AdminX\Desktop\ОПІ\Pattern prototype\obj\Debug\net6.0\ref\Pattern prototype.dll
