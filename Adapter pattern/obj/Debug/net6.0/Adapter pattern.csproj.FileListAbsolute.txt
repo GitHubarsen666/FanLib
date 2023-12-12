@@ -1,0 +1,14 @@
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\bin\Debug\net6.0\Adapter pattern.exe
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\bin\Debug\net6.0\Adapter pattern.deps.json
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\bin\Debug\net6.0\Adapter pattern.runtimeconfig.json
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\bin\Debug\net6.0\Adapter pattern.dll
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\bin\Debug\net6.0\Adapter pattern.pdb
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.AssemblyInfoInputs.cache
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.AssemblyInfo.cs
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.csproj.CoreCompileInputs.cache
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.dll
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\refint\Adapter pattern.dll
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.pdb
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\Adapter pattern.genruntimeconfig.cache
+C:\Users\AdminX\Desktop\ОПІ\Adapter pattern\obj\Debug\net6.0\ref\Adapter pattern.dll
