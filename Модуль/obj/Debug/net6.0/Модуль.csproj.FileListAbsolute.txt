@@ -1,0 +1,14 @@
+C:\Users\AdminX\Desktop\ОПІ\Модуль\bin\Debug\net6.0\Модуль.exe
+C:\Users\AdminX\Desktop\ОПІ\Модуль\bin\Debug\net6.0\Модуль.deps.json
+C:\Users\AdminX\Desktop\ОПІ\Модуль\bin\Debug\net6.0\Модуль.runtimeconfig.json
+C:\Users\AdminX\Desktop\ОПІ\Модуль\bin\Debug\net6.0\Модуль.dll
+C:\Users\AdminX\Desktop\ОПІ\Модуль\bin\Debug\net6.0\Модуль.pdb
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.AssemblyInfoInputs.cache
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.AssemblyInfo.cs
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.csproj.CoreCompileInputs.cache
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.dll
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\refint\Модуль.dll
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.pdb
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\Модуль.genruntimeconfig.cache
+C:\Users\AdminX\Desktop\ОПІ\Модуль\obj\Debug\net6.0\ref\Модуль.dll
